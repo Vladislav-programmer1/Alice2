@@ -1,3 +1,14 @@
+click
+colorama
+dataclasses
+Flask
+importlib-metadata
+itsdangerous
+Jinja2
+MarkupSafe
 pip
 setuptools
+typing_extensions
+Werkzeug
 wheel
+zipp
